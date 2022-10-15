@@ -24,7 +24,13 @@ div
 
 .route
 {
-    animation: rotate 8s infinite linear;
+    animation: rotate 10s infinite linear;
+
+}
+
+.route2
+{
+    animation: rotate 5s infinite linear;
 
 }
 
